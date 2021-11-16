@@ -1,0 +1,42 @@
+h1 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: black;
+
+    letter-spacing: -1px;
+
+    text-decoration: rgb(68, 68, 68);
+
+    font-variant: normal;
+
+    margin-right: 50px;
+}
+
+p {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color: black;
+
+    letter-spacing: -1px;
+
+    text-decoration: rgb(68, 68, 68);
+
+    font-variant: normal;
+
+    margin-right: 50px;
+}
+
+body {
+
+    font-size: 45px;
+    background-color: #002451;
+}
+
+img {
+
+    vertical-align: center;
+    align-self: right;
+
+}
